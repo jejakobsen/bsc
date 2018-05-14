@@ -8,5 +8,4 @@ Five of the scripts are dependent and should be read in the following order
 4. spectra.py
 5. plots.py
 
-One of the scripts are independent
-pressread.py
+One of the scripts are independent: pressread.py
